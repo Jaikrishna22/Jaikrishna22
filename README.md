@@ -13,7 +13,7 @@
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <p align="center">
   <a href="https://github.com/Jaikrishna22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=680&lines=Senior+Software+Engineer+%40+Perpetuuiti;Disaster+Recovery+%7C+BCP+%7C+ITDR+Specialist;Full-Stack+.NET+%2B+Angular+%2F+React+Developer;8%2B+years+building+enterprise+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=Senior+Software+Engineer+%40+Perpetuuiti;Disaster+Recovery+%7C+BCP+%7C+ITDR+Specialist;Full-Stack+.NET+%2B+Angular+%2F+React+Developer;8%2B+years+building+enterprise+software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,8 +21,8 @@
 <p align="center">
   <a href="mailto:jaikrishnabe95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/jaikrishna-p-s-27a49b19a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://jaikrishna22.github.io"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=Jaikrishna22&label=Profile%20views&color=6c63ff&style=for-the-badge" alt="Profile views" />
+  <a href="https://jaikrishna22.github.io"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <img src="https://komarev.com/ghpvc/?username=Jaikrishna22&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -99,12 +99,12 @@ motto:       "reliable software, minimal downtime."
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaikrishna22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=6c63ff&icon_color=6c63ff" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaikrishna22&layout=compact&hide_border=true&langs_count=8&title_color=6c63ff" alt="top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaikrishna22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2563eb&icon_color=2563eb" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaikrishna22&layout=compact&hide_border=true&langs_count=8&title_color=2563eb" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaikrishna22&hide_border=true&stroke=6c63ff&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaikrishna22&hide_border=true&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="streak" />
 </p>
 
 <p align="center">
